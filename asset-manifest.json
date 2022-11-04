@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ekart/static/css/main.0bf14e91.css",
+    "main.js": "/ekart/static/js/main.35a141a5.js",
+    "index.html": "/ekart/index.html",
+    "main.0bf14e91.css.map": "/ekart/static/css/main.0bf14e91.css.map",
+    "main.35a141a5.js.map": "/ekart/static/js/main.35a141a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0bf14e91.css",
+    "static/js/main.35a141a5.js"
+  ]
+}
