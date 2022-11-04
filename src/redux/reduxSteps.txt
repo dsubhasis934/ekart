@@ -1,0 +1,4 @@
+1.create reducer and action using createslice method.it allows both with one function
+2.create a store using configurestore
+3.import provider and store in app.js
+4.dispatch the reducer functions

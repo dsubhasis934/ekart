@@ -1,0 +1,25 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "name": "National Library",
+            "image": "https://assets.traveltriangle.com/blog/wp-content/uploads/2015/09/National-Library-at-Belvidere-Road-400x235.jpg",
+            "desc": "National Library, the former residence of Governor-General during the British period, is well-known for rich treasures of rare and significant books and publications; and eerie stories knitted on it",
+            "link": "https://traveltriangle.com/blog/haunted-places-in-kolkata/#/National_Library"
+        },
+        {
+            "id": "2",
+            "name": "The Royal Calcutta Turf Club",
+            "image": "https://img.traveltriangle.com/blog/wp-content/uploads/2019/04/https___commons.wikimedia.org_wiki_File_Grandstand_-_Royal_Calcutta_Turf_Club_-_Barrackpore_Cantonment_-_North_24_Parganas_2012-05-27_01202.jpg-400x229.jpg",
+            "desc": "Long ago, there lived George Williams, a complete race freak. His passion, desire and dreams of winning the bet revolved around a snow-white horse named Pride, who was the champion of all tracks",
+            "link": "https://traveltriangle.com/blog/haunted-places-in-kolkata/#/National_Library"
+        },
+        {
+            "id": "3",
+            "name": "Bhoot Bangla",
+            "image": "https://assets.traveltriangle.com/blog/wp-content/uploads/2015/09/Hastings-House-in-Alipore-400x250.jpg",
+            "desc": "William Hastings, once a Governor-General of Bengal, built this ancient building as his residence. Called as Belvedere Estate, this haunted house in Kolkata is presently the location for an undergraduate women’s college under the University of Calcutta.",
+            "link": "https://traveltriangle.com/blog/haunted-places-in-kolkata/#/National_Library"
+        }
+    ]
+}

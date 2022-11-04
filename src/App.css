@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&family=Poppins:ital@1&display=swap');
+
+* {
+  overflow-x: hidden;
+  overflow-y: auto;
+  font-family: "poppins", sans-serif;
+}
+
+div#root {
+  background-color: #D3D3D3;
+}
+
+
+.card_product {
+  max-width: 540px;
+}
+
+p.text-uppercase.text-black-50.fs-14 {
+  font-size: 28px;
+  font-weight: 500;
+}
+
+.product-title {
+  font-size: 34px;
+  font-weight: 400;
+}
+
+.card-img-top {
+  height: 250px;
+}
+
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+img.cartCard-image {
+  width: 200px;
+  height: 200px;
+  margin-bottom: 20px;
+}
+
+.cartCard {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.cartCard-button {
+  height: 33px;
+}
+
+li.nav-item {
+  position: relative;
+}
+
+.card-img-overlay.text-white.fw-bold.d-flex.flex-column.justify-content-center {
+  margin-left: 24px;
+}
+
+@media only screen and (max-width: 1110px) {
+  .cartCard {
+    width: full;
+    flex-direction: column;
+    margin: auto;
+  }
+}
+
+@media only screen and (max-width: 560px) {
+  .buttons {
+    /* width: full; */
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+  }
+}
+
+/* contact us form */
+.container-contact-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 90vh;
+  align-items: center;
+  width: auto;
+  position: relative;
+
+}
+
+label {
+  font-size: 18px;
+  font-weight: bold;
+  text-shadow: 21px 20px 23px black;
+}
+
+input {
+  padding: 5px;
+  width: full
+}
+
+p.fw-bold.fs-18 {
+  margin-top: 22px;
+}
+
+input,
+label {
+  margin-top: 18px;
+  width: 300px;
+}
+
+
+.body-contact-form {
+  display: flex;
+  flex-direction: column;
+}
+
+.contact-container {
+  width: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+  border: 1px solid black;
+  border-radius: 27px;
+  background-color: whitesmoke;
+  box-sizing: border-box;
+  box-shadow: 20px 10px;
+}
+
+button.contact-btn.btn.btn-outline-dark {
+  margin-top: 22px;
+  width: 200px;
+  margin-left: 43px;
+}
