@@ -1,7 +1,7 @@
 {
   "name": "ekart",
   "version": "0.1.0",
-  "homepage": "http://dsubhasis934.github.io",
+  "homepage": "https://dsubhasis934.github.io/ekart",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.1.0-9",
